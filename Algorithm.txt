@@ -1,0 +1,12 @@
+PROBLEM
+Algorithm that read a sentence, which ends with a point, character by character, and to determine:
+1. Word Count
+2. Vowel Count
+SOLUTION:
+-Create a Variable to hold
+    Sentence, Wordcount, VowelChar, VowelCount
+-Continue counting until getting to point
+-Read VowelChar (a'e'i'o'u)
+-Read Sentence Char by Char
+-If Sentence Char match any VowelChar
+-Add 1 to VowelCount
